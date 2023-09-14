@@ -40,7 +40,6 @@ window.addEventListener('DOMContentLoaded', function (){
             if(target.classList.contains('popup-close')){
                 popUp.style.display = 'none';
             }
-
         });
     };
     popup();
