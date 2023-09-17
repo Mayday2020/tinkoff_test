@@ -37,7 +37,7 @@
     border: 1px solid black;
 }
 .table-item {
-    padding-left: 5px;
+    padding: 10px;
     font-size: 13px;
     font-weight: bold;
 }
